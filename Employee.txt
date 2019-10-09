@@ -1,0 +1,13 @@
+{
+  "id" : 1,
+  "empId" : "1091",
+  "name" : "Manoj",
+  "salary" : "100",
+  "dept" : "GCE"
+}{
+  "id" : 2,
+  "empId" : "1092",
+  "name" : "shubham",
+  "salary" : "200",
+  "dept" : "ManOps"
+}

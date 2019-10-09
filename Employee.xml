@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employees>
+        <dept>GCE</dept>
+        <empId>1091</empId>
+        <id>1</id>
+        <name>Manoj</name>
+        <salary>100</salary>
+    </employees>
+    <employees>
+        <dept>ManOps</dept>
+        <empId>1092</empId>
+        <id>2</id>
+        <name>shubham</name>
+        <salary>200</salary>
+    </employees>
+</employees>
